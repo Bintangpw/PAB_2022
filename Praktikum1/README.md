@@ -2,15 +2,16 @@
 
 A new Flutter project.
 
-## Getting Started
+## Instruksi Praktikum
 
-This project is a starting point for a Flutter application.
+Install Oracle JDK https://www.oracle.com/java/technologies/javase/jdk11-archive-downloads.html
+JDK 8 bisa juga dipakai https://www.oracle.com/java/technologies/javase/javase8u211-later-archive-downloads.html
 
-A few resources to get you started if this is your first Flutter project:
+Install Flutter https://docs.flutter.dev/get-started/install
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Install IDE
+VS Code https://docs.flutter.dev/get-started/editor?tab=vscode
+bisa juga pakai Android Studio atau IntelliJ Idea
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Ikuti instruksi di tutorial berikut
+https://docs.flutter.dev/get-started/codelab
